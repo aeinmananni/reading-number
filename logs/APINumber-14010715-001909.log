@@ -1,0 +1,2 @@
+{"level":"info","message":"Listening On Port : 3000"}
+{"level":"error","message":{"ERROR":"لطفا ورودی را چک کنید باید عدد وارد شود","logDate":"14010715","logTime":"002016","method":"GET","url":"/api/number/fbbd"}}
